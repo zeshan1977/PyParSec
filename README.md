@@ -1,0 +1,2 @@
+# PyParSec
+Python Parsec calculator
